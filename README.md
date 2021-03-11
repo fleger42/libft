@@ -1,7 +1,7 @@
 # **Libft:** 
 ## ***A 42 project... :***
 [Subject][1]
-##Usage
+## Usage:
 Make to create the libft.a file. Use it everywere you want ! :)
 ## Goal:
 
